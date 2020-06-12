@@ -7,3 +7,6 @@ Runs on my secondary display by default. To adjust:
 
 Issues:
 - If placed on the primary display, the information is partially obscured by the dock in Ubuntu—adjust the gap_x option.
+
+Example:
+![example](https://raw.githubusercontent.com/vicksahni/vss-conky/master/example_display.png)
